@@ -15,10 +15,7 @@ public class PlayerWS {
     @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
     public Response login(@FormParam("email") String email,
                           @FormParam("password") String password){
-        System.out.println("qweqwewqewqe");
-        System.out.println(email);
-        System.out.println(password);
-        PlayerDAO player= PlayerDAO.authenticate(email, password);
+        Player player= PlayerDAO.authenticate(email, password);
 
         if(player != null){
            return Response.status(401).build();
