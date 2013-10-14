@@ -1,6 +1,5 @@
 package pt.com.node.webserver.rest.v1;
 
-import pt.com.node.webserver.core.dao.PlayerDAO;
 import pt.com.node.webserver.core.security.Tokenizer;
 
 import javax.ws.rs.*;

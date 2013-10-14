@@ -69,10 +69,6 @@
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.8.3" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.8.3" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-xc:1.8.3" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:mongo-java-driver:2.11.3" level="project" />
-    <orderEntry type="library" name="Maven: com.github.jmkgreen.morphia:morphia:1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: cglib:cglib-nodep:2.2.2" level="project" />
-    <orderEntry type="library" name="Maven: com.thoughtworks.proxytoys:proxytoys:1.0" level="project" />
   </component>
 </module>
 

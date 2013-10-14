@@ -74,19 +74,6 @@
             <version>1.9</version>
         </dependency>
         <!--Jersey-->
-
-        <!--Morphia Mongo-->
-        <dependency>
-            <groupId>org.mongodb</groupId>
-            <artifactId>mongo-java-driver</artifactId>
-            <version>2.11.3</version>
-        </dependency>
-        <dependency>
-            <groupId>com.github.jmkgreen.morphia</groupId>
-            <artifactId>morphia</artifactId>
-            <version>1.2.3</version>
-        </dependency>
-        <!--Morphia Mongo-->
     </dependencies>
 
     <build>

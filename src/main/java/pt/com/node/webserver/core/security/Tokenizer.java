@@ -1,6 +1,5 @@
 package pt.com.node.webserver.core.security;
 
-import pt.com.node.webserver.core.dao.PlayerDAO;
 import pt.com.node.webserver.core.entity.Player;
 import pt.com.node.webserver.core.entity.Token;
 
